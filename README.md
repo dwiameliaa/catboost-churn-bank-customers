@@ -1,1 +1,1 @@
-# catboost-churn-bank-customers
+# Catboost Churn Bank Customers
